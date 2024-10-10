@@ -1,4 +1,7 @@
 require ( './helpers.js' );
+//const { returnsAnAnonymousFunction } = require('../index.js');
+//const { returnsAnAnonymousFunction } = require('../index.js');
+
 
 const chai = require("chai");
 const spies = require("chai-spies");
